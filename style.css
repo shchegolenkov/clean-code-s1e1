@@ -173,3 +173,7 @@
 .edit-mode .task-label {
   display: none;
 }
+
+.hidden {
+  display: none;
+}
